@@ -39,7 +39,7 @@ Lunar Lander v3 es un juego en el que el jugador controla una nave espacial que 
 
 ## Estructura del proyecto
 
-* `Gymnasium alumno.py`: El archivo principal del juego y el entrenamiento.
+* `Gymnasium alumno.ipynb`: El archivo principal del juego y el entrenamiento.
 * `MLP.py`: Implementación de la Red Neuronal Multicapa.
 
 ## Contribución
