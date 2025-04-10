@@ -39,7 +39,7 @@ Lunar Lander v3 es un juego en el que el jugador controla una nave espacial que 
 
 ## Estructura del proyecto
 
-* `lunar_lander.py`: El archivo principal del juego y el entrenamiento.
+* `Gymnasium alumno.py`: El archivo principal del juego y el entrenamiento.
 * `MLP.py`: Implementación de la Red Neuronal Multicapa.
 
 ## Contribución
@@ -53,4 +53,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para obt
 ## Notas adicionales
 
 * El entrenamiento puede requerir un tiempo considerable dependiendo de la complejidad de la red neuronal y los parámetros del algoritmo genético.
-* Se pueden ajustar los parámetros de entrenamiento en los archivos `neural_network.py` y `genetic_algorithm.py` para experimentar con diferentes configuraciones.
+* Se pueden ajustar los parámetros de entrenamiento en los archivos `MLP.py` y  para experimentar con diferentes configuraciones.
